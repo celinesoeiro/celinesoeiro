@@ -4,12 +4,12 @@
 
 ### Bio
 
-- 👩‍💼 I work at Pedido Pago (Technical Lead)
+- 👩‍💼 I work at LamiMed (frontend developer)
 - 👩‍🔬 I study at USP (Master degree in applied computer science)
 - 📚 I’m currently learning everything that I possibly can but my main focus is on web development, neuroscience and artificial intelligence.
 - 💻 I use in a daily basis: `.tsx`, `.ts`, `.css`, `.html`
 - 🖱️ I frequently use: `.py`, `.js`, `.mdx`
-- 🌟 Fun fact: I talk about books on Instagram 
+- 🌟 Fun fact: I talk about books on Instagram
 
 ### Networks
 [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/celinesoeiro/)](https://www.linkedin.com/in/celinesoeiro/)
