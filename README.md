@@ -7,8 +7,8 @@
 - 👩‍💼 I work at LamiMed (frontend developer)
 - 👩‍🔬 I study at USP (Master degree in applied computer science)
 - 📚 I’m currently learning everything that I possibly can but my main focus is on web development, neuroscience and artificial intelligence.
-- 💻 I use in a daily basis: `.tsx`, `.ts`, `.css`, `.html`
-- 🖱️ I frequently use: `.py`, `.js`, `.mdx`
+- 💻 I use in a daily basis: `.tsx`, `.ts`, `.css`, `.py`
+- 🖱️ I frequently use: `.html`, `.js`, `.mdx`
 - 🌟 Fun fact: I talk about books on Instagram
 
 ### Networks
