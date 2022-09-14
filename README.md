@@ -1,12 +1,12 @@
 ### Hello World, I'm Celine 👋
 
-👩‍💻 I'm front-end developer / machine learning engineer wannabe fom Brazil.
+👩‍💻 I'm senior front-end developer / data analyst wannabe fom Brazil.
 
 ### Bio
 
-- 👩‍💼 I work at LamiMed (frontend developer)
+- 👩‍💼 I work at LamiMed (software engineer)
 - 👩‍🔬 I study at USP (Master degree in applied computer science)
-- 📚 I’m currently learning everything that I possibly can but my main focus is on web development, neuroscience and artificial intelligence.
+- 📚 I’m currently learning everything that I possibly can but my main focus is on web development, neuroscience and data analysis.
 - 💻 I use in a daily basis: `.tsx`, `.ts`, `.css`, `.py`
 - 🖱️ I frequently use: `.html`, `.js`, `.mdx`
 - 🌟 Fun fact: I talk about books on Instagram
