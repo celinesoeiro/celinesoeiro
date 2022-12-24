@@ -1,10 +1,10 @@
 ### Hello World, I'm Celine 👋
 
-👩‍💻 I'm senior front-end developer / data analyst wannabe fom Brazil.
+👩‍💻 I'm software engineer / data analyst wannabe fom Brazil.
 
 ### Bio
 
-- 👩‍💼 I work at LamiMed (software engineer)
+- 👩‍💼 I work at Apegro (technical lead)
 - 👩‍🔬 I study at USP (Master degree in applied computer science)
 - 📚 I’m currently learning everything that I possibly can but my main focus is on web development, neuroscience and data analysis.
 - 💻 I use in a daily basis: `.tsx`, `.ts`, `.css`, `.py`
