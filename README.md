@@ -4,9 +4,9 @@
 
 ### Bio
 
-- 👩‍💼 I work at Proxify (Freelancer Senior Frontend Engineer)
+- 👩‍💼 I work as Frontend Engineer 
 - 👩‍🔬 I study at USP (Master degree in applied computer science)
-- 📚 I’m currently learning everything that I possibly can but my main focus is on web development and neuroscience.
+- 📚 I’m currently learning everything that I possibly can but my main focus is on web development and neuroscience
 - 💻 I use in a daily basis: `.tsx`, `.ts`, `.css`, `.py`
 - 🖱️ I frequently use: `.html`, `.js`, `.mdx`
 - 🌟 Fun fact: I talk about books on Instagram
