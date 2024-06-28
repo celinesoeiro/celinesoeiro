@@ -5,7 +5,7 @@
 ### Bio
 
 - :telescope: I'm working at [Visitor Reach](https://github.com/Visitor-Reach)
-- :eyes: I'm creating an application that involves books and self-growth 
+- :eyes: I'm working on a project that involves books and self-growth 
 - 📚 I’m currently learning clean architecture, UX/UI design and copy
 - 💻 I use in a daily basis: `.tsx`, `.ts`, `.css`
 - 🖱️ I frequently use: `.html`, `.js`, `.py`
