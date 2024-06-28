@@ -4,11 +4,12 @@
 
 ### Bio
 
-- 👩‍💼 I'm working at [Visitor Reach](https://github.com/Visitor-Reach)
+- :telescope: I'm working at [Visitor Reach](https://github.com/Visitor-Reach)
+- :eyes: I'm creating an application that involves books and self-growth 
 - 📚 I’m currently learning clean architecture, UX/UI design and copy
 - 💻 I use in a daily basis: `.tsx`, `.ts`, `.css`
 - 🖱️ I frequently use: `.html`, `.js`, `.py`
-- 🌟 Fun fact: I talk about self-improvement through books on Instagram
+- ✨ Fun fact: I talk about self-improvement through books on Instagram
 
 ### Connect with me
 [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/celinesoeiro/)](https://www.linkedin.com/in/celinesoeiro/)
